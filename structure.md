@@ -1,11 +1,11 @@
-Cars
+## Cars
 
-Model:Car
+# Table:
 
-Table:Cars
+## Cars
 
 
-id: BIGINT (not null,unique)
+id: BIGINT (NOT NULL UNIQUE)
 model: VARCHAR(60) (NOT NULL)
 doors: TINYINT(NOT NULL)
 years: YEAR (NOT NULL)
